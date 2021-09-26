@@ -1,11 +1,11 @@
 {
-    "name": "atm-code/ar-php-laravel",
-    "description": "ar-php-laravel",
+    "name": "saber13812002/persian-php-laravel",
+    "description": "persian-php-laravel",
     "keywords": [
         "atm-code",
         "ar-php-laravel"
     ],
-    "homepage": "https://github.com/atm-code/ar-php-laravel",
+    "homepage": "https://github.com/saber13812002/persian-php-laravel",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1|^8.0",
         "illuminate/support": "^8.0",
-        "khaled.alshamaa/ar-php": "^6.2"
+        "saber13812002/persian-php": "^6.2"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
