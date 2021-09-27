@@ -1,4 +1,4 @@
-<p align="center"><img src="https://banners.beyondco.de/AR-php%20for%20Laravel.png?theme=light&packageManager=composer+require&packageName=saber13812002%2Far-php-laravel&pattern=wiggle&style=style_2&description=wrapper+for+Persian-PHP+Library+to+use+with+laravel&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&widths=600&heights=650" width="600"></p>
+<p align="center"><img src="https://banners.beyondco.de/persian-php%20for%20Laravel.png?theme=light&packageManager=composer+require&packageName=saber13812002%2Fpersian-php-laravel&pattern=wiggle&style=style_2&description=wrapper+for+Persian-PHP+Library+to+use+with+laravel&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&widths=600&heights=650" width="600"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/saber13812002/persian-php-laravel"><img src="https://img.shields.io/packagist/v/saber13812002/persian-php-laravel" /></a>
@@ -8,9 +8,9 @@
 <a href="https://github.com/saber13812002/persian-php-laravel"><img src="https://img.shields.io/github/stars/saber13812002/persian-php-laravel" /></a>
 </p>
 
-# laravel package for the Ar-PHP Project
+# laravel package for the persian-PHP Project
 
-this is just a wrapper to use with laravel for the Ar-PHP Library, for more details checkout [khaled-alshamaa: ar-php](https://github.com/khaled-alshamaa/ar-php)
+this is just a wrapper to use with laravel for the persian-PHP Library, for more details checkout [khaled-alshamaa: persian-php](https://github.com/khaled-alshamaa/persian-php)
 ## Installation
 You can install the package via composer:
 ```bash
