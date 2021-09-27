@@ -1,11 +1,11 @@
 <p align="center"><img src="https://banners.beyondco.de/AR-php%20for%20Laravel.png?theme=light&packageManager=composer+require&packageName=atm-code%2Far-php-laravel&pattern=wiggle&style=style_2&description=wrapper+for+Ar-PHP+Library+to+use+with+laravel&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&widths=600&heights=650" width="600"></p>
 
 <p align="center">
-<a href="https://packagist.org/packages/atm-code/ar-php-laravel"><img src="https://img.shields.io/packagist/v/atm-code/ar-php-laravel" /></a>
-<a href="https://travis-ci.com/atm-code/ar-php-laravel"><img src="https://img.shields.io/travis/com/atm-code/ar-php-laravel" /></a>
+<a href="https://packagist.org/packages/atm-code/persian-php-laravel"><img src="https://img.shields.io/packagist/v/atm-code/persian-php-laravel" /></a>
+<a href="https://travis-ci.com/atm-code/persian-php-laravel"><img src="https://img.shields.io/travis/com/atm-code/persian-php-laravel" /></a>
 <a href="https://github.styleci.io/repos/354853609?branch=main"><img src="https://github.styleci.io/repos/354853609/shield?branch=main" /></a>
-<a href="https://packagist.org/packages/atm-code/ar-php-laravel"><img src="https://img.shields.io/packagist/dt/atm-code/ar-php-laravel" /></a>
-<a href="https://github.com/atm-code/ar-php-laravel"><img src="https://img.shields.io/github/stars/atm-code/ar-php-laravel" /></a>
+<a href="https://packagist.org/packages/atm-code/persian-php-laravel"><img src="https://img.shields.io/packagist/dt/atm-code/persian-php-laravel" /></a>
+<a href="https://github.com/atm-code/persian-php-laravel"><img src="https://img.shields.io/github/stars/atm-code/persian-php-laravel" /></a>
 </p>
 
 # laravel package for the Ar-PHP Project
