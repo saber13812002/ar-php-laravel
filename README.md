@@ -14,7 +14,7 @@ this is just a wrapper to use with laravel for the Ar-PHP Library, for more deta
 ## Installation
 You can install the package via composer:
 ```bash
-composer require atm-code/ar-php-laravel
+composer require saber13812002/persian-php-laravel
 ```
 
 ## Available functions
